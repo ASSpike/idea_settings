@@ -4,7 +4,7 @@
       <webServer id="3185a7d4-7221-45c7-8d02-9d973c49c7da" name="annaulybka.ru" url="http://annaulybka.ru/pulse">
         <fileTransfer host="bioplastic.su" port="21" rootFolder="/www/annaulybka.ru/pulse" password="dfc9dfc5dfc4dfc4dfcfdfc9dfdedf9b" username="bioplastic">
           <advancedOptions>
-            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" showHiddenFiles="true" />
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
