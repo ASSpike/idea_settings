@@ -1,0 +1,22 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3185a7d4-7221-45c7-8d02-9d973c49c7da" name="annaulybka.ru" url="http://annaulybka.ru/pulse">
+        <fileTransfer host="bioplastic.su" port="21" rootFolder="/www/annaulybka.ru/pulse" password="dfc9dfc5dfc4dfc4dfcfdfc9dfdedf9b" username="bioplastic">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" forceListCommand="true" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e81138e1-98a1-4ec6-9365-e1f78ceb8a84" name="local" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="2de6b393-3a8e-4453-9307-a6c8a85aa9af" name="annaulybka.dev" url="http://annaulybka.dev">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
